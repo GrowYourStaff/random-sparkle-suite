@@ -1,4 +1,3 @@
-import React from 'react';
 import { Search, Users, Send, MessageCircle, ArrowRight, Target, BarChart3, Shield, Clock } from 'lucide-react';
 
 const HowItWorksPage = () => {

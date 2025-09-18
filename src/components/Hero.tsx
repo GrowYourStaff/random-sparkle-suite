@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, Users, Target, MessageCircle, TrendingUp } from 'lucide-react';
 

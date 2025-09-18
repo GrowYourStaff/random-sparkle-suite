@@ -1,4 +1,3 @@
-import React from 'react';
 import { Search, Users, Send, MessageCircle, ArrowRight } from 'lucide-react';
 
 const HowItWorksPreview = () => {

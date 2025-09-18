@@ -1,4 +1,3 @@
-import React from 'react';
 import { Target, Users, Shield, Settings } from 'lucide-react';
 
 const KeyBenefits = () => {

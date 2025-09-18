@@ -23,12 +23,6 @@ const HomePage = () => (
       </div>
     </section>
 
-    <section id="case-studies" className="py-20 bg-gray-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 className="text-3xl font-bold text-gray-900 mb-4">Case Studies</h2>
-        <p className="text-gray-600">Coming soon - Real success stories from our clients</p>
-      </div>
-    </section>
 
     <section id="about" className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

@@ -38,9 +38,6 @@ const Header = () => {
             <a href="#why-zenvve" className="text-gray-700 hover:text-blue-600 transition-colors duration-200 font-medium">
               Why Zenvve
             </a>
-            <a href="#case-studies" className="text-gray-700 hover:text-blue-600 transition-colors duration-200 font-medium">
-              Case Studies
-            </a>
             <a href="#about" className="text-gray-700 hover:text-blue-600 transition-colors duration-200 font-medium">
               About
             </a>
@@ -91,9 +88,6 @@ const Header = () => {
               </Link>
               <a href="#why-zenvve" className="text-gray-700 hover:text-blue-600 transition-colors duration-200 font-medium">
                 Why Zenvve
-              </a>
-              <a href="#case-studies" className="text-gray-700 hover:text-blue-600 transition-colors duration-200 font-medium">
-                Case Studies
               </a>
               <a href="#about" className="text-gray-700 hover:text-blue-600 transition-colors duration-200 font-medium">
                 About

@@ -18,12 +18,6 @@ const HomePage = () => (
     {/* Placeholder sections for future development */}
 
 
-    <section id="about" className="py-20 bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 className="text-3xl font-bold text-gray-900 mb-4">About Zenvve</h2>
-        <p className="text-gray-600">Coming soon - Our story and team</p>
-      </div>
-    </section>
 
     <section id="contact" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

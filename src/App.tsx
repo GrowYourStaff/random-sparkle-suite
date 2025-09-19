@@ -16,12 +16,6 @@ const HomePage = () => (
     <CTASection />
     
     {/* Placeholder sections for future development */}
-    <section id="how-it-works" className="py-20 bg-gray-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 className="text-3xl font-bold text-gray-900 mb-4">How It Works</h2>
-        <p className="text-gray-600">Coming soon - Our simple 4-step process</p>
-      </div>
-    </section>
 
 
     <section id="about" className="py-20 bg-white">

@@ -67,15 +67,6 @@ const Hero = () => {
               </a>
             </div>
 
-            {/* Social Proof */}
-            <div className="mt-12 pt-8 border-t border-gray-200">
-              <p className="text-gray-500 text-sm mb-4">Trusted by growing businesses</p>
-              <div className="flex items-center justify-center lg:justify-start space-x-8 opacity-60">
-                <div className="text-2xl font-bold text-gray-400">Company A</div>
-                <div className="text-2xl font-bold text-gray-400">Company B</div>
-                <div className="text-2xl font-bold text-gray-400">Company C</div>
-              </div>
-            </div>
           </div>
 
           {/* Right Content - Visual */}

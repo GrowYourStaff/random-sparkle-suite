@@ -22,7 +22,7 @@ const HomePage = () => (
 
     <section id="get-started" className="py-20 bg-blue-600">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 className="text-3xl font-bold text-white mb-4">Get Started</h2>
+        <h2 className="text-3xl font-bold text-white mb-4">Book a Demo</h2>
         <p className="text-blue-100 mb-8">Ready to transform your LinkedIn outreach?</p>
         <a
           href="#contact"

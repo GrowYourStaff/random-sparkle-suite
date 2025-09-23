@@ -71,7 +71,7 @@ const Footer = () => {
               </li>
               <li>
                 <a href="#get-started" className="text-gray-400 hover:text-white transition-colors duration-200">
-                  Get Started
+                  Book a Demo
                 </a>
               </li>
               <li>

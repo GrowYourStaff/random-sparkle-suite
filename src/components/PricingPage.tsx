@@ -201,7 +201,7 @@ const PricingPage = () => {
                         : 'bg-gray-100 text-gray-900 hover:bg-gray-200'
                     }`}
                   >
-                    Get Started
+                    Book a Demo
                     <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform duration-200" />
                   </button>
                 </div>

@@ -58,7 +58,7 @@ const Header = () => {
               href="#get-started"
               className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 font-medium shadow-sm"
             >
-              Get Started
+              Book a Demo
             </a>
           </div>
 
@@ -106,7 +106,7 @@ const Header = () => {
                   href="#get-started"
                   className="block bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 font-medium text-center"
                 >
-                  Get Started
+                  Book a Demo
                 </a>
               </div>
             </nav>

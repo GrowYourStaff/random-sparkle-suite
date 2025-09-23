@@ -42,7 +42,7 @@ const CTASection = () => {
               to="/pricing"
               className="bg-white text-blue-600 px-8 py-4 rounded-lg hover:bg-gray-50 transition-all duration-200 font-semibold text-lg shadow-lg hover:shadow-xl flex items-center justify-center group"
             >
-              See Pricing & Get Started
+              See Pricing & Book a Demo
               <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform duration-200" />
             </Link>
             <a
